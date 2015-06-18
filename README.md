@@ -1,4 +1,4 @@
-![alt text](https://github.com/iLek2428/DPUPR58-Lecture/Images/blob/master/Images/logo.png "DPU Commart")
+![alt text](https://raw.githubusercontent.com/iLek2428/DPUPR58-Lecture/master/Images/logo.png "DPU Commart")
 
 lecture
 =======
